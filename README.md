@@ -61,9 +61,9 @@ plt.show()
 ```
 
 ## Output:
-## Slope and Y-predicted
+## Slope and Intercept
 1.8 0.0
-
+## Y-Predicted
 [1.8 3.6 5.4 7.2 9. ]
 
 ## Graph:
